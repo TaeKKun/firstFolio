@@ -2,6 +2,10 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+a:hover{
+    text-decoration: none;
+}
+
 .banner-container{
     background-color: #cacaca;
 }
@@ -36,3 +40,8 @@ body{
     width: 150px;
     border-radius: 50%;
 }
+
+.project-container{
+    background-color: #2bb3dd;
+}
+
