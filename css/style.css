@@ -16,6 +16,10 @@ a:hover{
 
 .navbar-container{
     background-color: #262b37;
+    top: 0;
+    position: sticky;
+    z-index: 3;
+
 }
 
 .about-container{
@@ -27,11 +31,15 @@ a:hover{
 }
 
 .redtype{
-    color: #570702;
+    color: #58211d;
 }
 
 .bg-redtype{
-    background-color: #fb857f;
+    background-color: #ec6962;
+}
+
+.bg-redtype:hover{
+    background-color: #5c0501;
 }
 
 .circle{
@@ -45,3 +53,28 @@ a:hover{
     background-color: #2bb3dd;
 }
 
+.form-container{
+    background-color: #474d5d;
+}
+
+.bt-box{
+    color:rgb(135, 135, 167);
+}
+
+.bt-boxsnd{
+    color: goldenrod;
+}
+
+.bumpy-box{
+    font-size: 73px;
+}
+
+.b-box{
+    border-color: rgb(252, 123, 77) !important;
+    border-width: 3px !important;
+    color:burlywood;
+}
+
+.inner-form{
+    background-color: #585f73;
+}
