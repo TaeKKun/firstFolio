@@ -78,3 +78,22 @@ a:hover{
 .inner-form{
     background-color: #585f73;
 }
+
+.footer{
+    background-color: #2bb3dd;
+}
+
+.circle-foot{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 34px;
+    text-align: center;
+    color: #2bb3dd;
+}
+
+.circle-foot:hover{
+    background-color: #474d5d;
+}
