@@ -1,3 +1,3 @@
-# taekkun.github.io
+# First Portfolio
  first portfolio site
  wish me luck!! ^-^
